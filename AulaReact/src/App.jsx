@@ -33,7 +33,7 @@ function App() {
 
       //Faz a requisição para a API
       const resposta = await fetch(
-        `https://api.openweathermap.org/data/2.5/weather?q=${cidade}&appid=bf0b2ce8356b57ec51f83c33c434161b&units=metric&lang=pt_br`
+        `https://api.openweathermap.org/data/2.5/weather?q=${cidade}&appid=fac69a26603c6ff9ee213c647eb4bf9f&units=metric&lang=pt_br`
       );
 
       //Converte a resposta para JSON
