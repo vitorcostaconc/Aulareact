@@ -1,8 +1,14 @@
 [
-    {
-        "cidade": "São Paulo",
-        "temperautra": "25°C",
-        "clima": "Ensolarado",
-        "umidade": "60%"
-    }
+  {
+    "cidade": "São Paulo",
+    "temperautra": "25°C",
+    "clima": "Ensolarado",
+    "umidade": "60%"
+  },
+  {
+    "cidade": "São Paulo",
+    "temperatura": "15.83°C",
+    "clima": "nublado",
+    "umidade": "82%"
+  }
 ]

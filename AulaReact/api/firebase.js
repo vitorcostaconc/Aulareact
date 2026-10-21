@@ -47,7 +47,7 @@ const app = initializeApp(firebaseConfig);
 // . Salvar dados
 // . Atualizar dados
 // . Excluir dados
-const analytics = getAnalytics(app);
+const db = getDatabase(app);
 
 //exporta a conexão para que ela possa ser utilizada em outros arquivos, como o server.js
 export default db;
